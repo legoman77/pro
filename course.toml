@@ -1,0 +1,24 @@
+id           = "pro"
+name         = "Professional Incubator Program"
+short        = "pro"
+license      = "CC0 Public Domain Dedication"
+
+description = """
+The Professional Incubator Program, or Pro for short, is a course
+focused on helping students develop workflows, habits, skills, and
+behaviors used by professionals successfully in the work place.
+Students are expected to have reached a level of technical proficiency
+and be any to work independently on a project for the duration of
+the course. Agile methodology is practiced as peers help one another
+with the guidance of the instructor in a classroom where abundent
+resources are generally available that would not otherwise be to
+students. (For more information, see *What's Pro?* in the course
+materials.)
+"""
+
+keywords = [ "professional", "pro", "career", "agile", "intern", "projects",
+  "project based learning", "life skills"]
+
+[ages]
+  from = 12
+
